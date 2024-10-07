@@ -11,16 +11,18 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+🌈
 -->
-# 🌟 Hey, I’m Priyanshi! Turning ideas into reality with code and creativity 💡
+# Hey, I’m Priyanshi! 🌈
 
-### 🚀 Final Year AI & DS Student @ GLBITM | Passionate Problem Solver | Design Head @ GDSC GLBITM
+<h2 align="center"> Final Year AI & DS Student @ GLBITM | Passionate Problem Solver | Full Stack Web Developer | Creative Designer | Design Head at GDSC GLBITM (2023-2024) | Fusing creativity and technology </h2>
 
 ---
 
 ### 👩‍💻 About Me:
 - 🎓 Final year student specializing in **Artificial Intelligence & Data Science**.
-- 🎨 **Design Head** at Google Developer Student Club GLBITM (2023-2024) | Fusing creativity and technology.
+  
+- 🎨 **Graphic Designer** skilled in creating engaging and impactful visuals.
 - 💻 Major Project: **Heart Disease Detection using Ensemble Techniques**.
 - 🔍 Exploring the crossroads of **AI**, **HealthTech**, and **Full Stack Development**.
 - 🌱 Forever learning, always building!
