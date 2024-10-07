@@ -14,7 +14,9 @@ Here are some ideas to get you started:
  | Fusing creativity and technology 
 🌈
 -->
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=PriyanshiAgr&label=Profile%20views&color=0e75b6&style=flat" alt="PriyanshiAgr" /> </p>
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=PriyanshiAgr&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /> 
+</p>
 <img src="https://github.com/PriyanshiAgr/PriyanshiAgr/blob/main/assets/Github%20Banner.png" alt="Banner Image" width="100%" height="auto">
 
 
@@ -117,26 +119,47 @@ Here are some ideas to get you started:
   ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
 
 <br />
+<table width="100%" align="center" style="border: none; border-collapse: collapse;">
+  <tr style="border: none;">
+    <td style="border: none;">
+      <img width="600em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PriyanshiAgr&theme=2077" alt="Profile Summary">
+    </td>
+  </tr>
+</table>
 
-![Priyanshi's GitHub stats](https://github-readme-stats.vercel.app/api?username=PriyanshiAgr&show_icons=true&theme=radical)
+<table width="100%" align="center" style="border: none; border-collapse: collapse;">
+  <tr style="border: none;">
+    <td style="border: none;">
+      <img src="https://github-readme-stats.vercel.app/api?username=PriyanshiAgr&show_icons=true&theme=radical" alt="GitHub stats" width="400em">
+    </td>
+    <td style="border: none;">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=PriyanshiAgr&theme=radical" alt="GitHub Streak" width="420em" />
+    </td>
+  </tr>
+</table>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PriyanshiAgr&layout=compact&theme=radical)](https://github.com/YourGitHubUsername/github-readme-stats)
+<table width="100%" align="center" style="border: none; border-collapse: collapse;">
+  <tr style="border: none;">
+    <td style="border: none;">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PriyanshiAgr&layout=compact&theme=radical" alt="Top languages" width="270em">
+    </td>
+    <td style="border: none;">
+      <img src="https://github-profile-trophy.vercel.app/?username=PriyanshiAgr&theme=monokai" alt="Trophies" width="630em">
+    </td>
+  </tr>
+</table>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=PriyanshiAgr&theme=radical&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PriyanshiAgr&theme=react-dark" alt="Contribution Graph" width="96%">
+</div>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=PriyanshiAgr&theme=monokai)](https://github.com/ryo-ma/github-profile-trophy)
-
-[![Priyanshi's contribution graph](https://github-readme-activity-graph.vercel.app/graph?username=PriyanshiAgr&theme=react-dark)](https://github.com/YourGitHubUsername)
+### 🤝 Let's Collaborate & Create Magic Together!
+💡 Got an exciting idea or an interesting project in mind? I'm always up for a challenge! Whether it's brainstorming, coding, or designing, let's team up and bring something amazing to life. Feel free to hit me up—collaboration is where the magic happens! ✨
 
 </br>
 <p align="center">
-  <b>Thank you for visiting my profile! If you appreciate my work, consider buying me a coffee or tea. 😊</b>
-</p>
-
----
-
-### 📊 GitHub Stats:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PriyanshiAgr&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="45%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PriyanshiAgr&theme=tokyonight" alt="GitHub Streak" width="45%" />
-</p>
+  <b>Thank you for visiting my profile!😊 If you appreciate my work, consider buying me a coffee or tea. ☕💻</b></p>
+ </br>
+ <p align="center">
+ <a href="https://www.buymeacoffee.com/PriyanshiAgr"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="40" width="150" alt="PriyanshiAgrawal" /></a>
+ </p>
