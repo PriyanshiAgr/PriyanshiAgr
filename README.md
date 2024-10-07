@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 <h2 align="center"> Final Year AI & DS Student @ GLBITM | Passionate Problem Solver | Full Stack Developer | Creative Designer | Design Head at GDSC GLBITM (2023-2024)</h2>
 
 ---
-<img align="right" alt="coding" width="500" src="https://github.com/PriyanshiAgr/PriyanshiAgr/blob/main/assets/6a18c89e-2b5f-4709-814e-a8baadf3120e.png">
+<img align="right" alt="coding" width="350" src="https://github.com/PriyanshiAgr/PriyanshiAgr/blob/main/assets/6a18c89e-2b5f-4709-814e-a8baadf3120e.png">
 
 ### 👩‍💻 About Me:
 - 🎓 **Final year student** specializing in **Artificial Intelligence & Data Science**.
