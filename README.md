@@ -161,5 +161,5 @@ Here are some ideas to get you started:
   <b>Thank you for visiting my profile!😊 If you appreciate my work, consider buying me a coffee or tea. ☕💻</b></p>
  </br>
  <p align="center">
- <a href="[https://www.buymeacoffee.com/PriyanshiAgr"](https://buymeacoffee.com/priyanshiax)"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="40" width="150" alt="PriyanshiAgrawal" /></a>
+ <a href="[https://buymeacoffee.com/priyanshiax]"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="40" width="150" alt="PriyanshiAgrawal" /></a>
  </p>
