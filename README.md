@@ -11,21 +11,31 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+ | Fusing creativity and technology 
 🌈
 -->
 # Hey, I’m Priyanshi! 🌈
 
-<h2 align="center"> Final Year AI & DS Student @ GLBITM | Passionate Problem Solver | Full Stack Web Developer | Creative Designer | Design Head at GDSC GLBITM (2023-2024) | Fusing creativity and technology </h2>
+<h2 align="center"> Final Year AI & DS Student @ GLBITM | Passionate Problem Solver | Full Stack Developer | Creative Designer | Design Head at GDSC GLBITM (2023-2024)</h2>
 
 ---
+<img align="right" alt="coding" width="500" src="https://github.com/JuhiPathak23/JuhiPathak23/assets/73741643/684bf8fe-e293-4001-a8bd-9e5e43925898">
 
 ### 👩‍💻 About Me:
-- 🎓 Final year student specializing in **Artificial Intelligence & Data Science**.
+- 🎓 **Final year student** specializing in **Artificial Intelligence & Data Science**.
   
-- 🎨 **Graphic Designer** skilled in creating engaging and impactful visuals.
-- 💻 Major Project: **Heart Disease Detection using Ensemble Techniques**.
-- 🔍 Exploring the crossroads of **AI**, **HealthTech**, and **Full Stack Development**.
-- 🌱 Forever learning, always building!
+- 🎨 **Graphic Designer** | Whipping up cool and eye-catching visuals.
+  
+- 💻 Currently working on: **Heart Disease Detection and Classification** using Ensemble Techniques.
+
+- 💬 **Hit me up about**: **Graphic Designing** , **Full Stack Development**
+
+- 📫 **Reach me at**: [priyanshia0203@gmail.com](mailto:priyanshia0203@gmail.com)
+
+- 🌱 **Forever learning, always building!**
+
+- ⚡ **Fun fact**: When I'm not creating, I'm bingeing horror flicks—**my guilty pleasure!**
+
 
 ---
 
