@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **PriyanshiAgr/PriyanshiAgr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,56 +13,62 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# 👋 Hey there, I'm Priyanshi Agrawal!
 
-**AI & Web Dev Enthusiast | Final Year AI & DS Student @ GLBITM**
+# 🌟 Priyanshi Agrawal | AI & Web Dev Enthusiast 🌟
 
----
-
-### About Me:
-- 🎓 Final year student specializing in **Artificial Intelligence & Data Science** at GLBITM.
-- 👩‍💻 **Web Development Intern** at Bharat Intern.
-- 🎨 **Design Head** at GDSC GLBITM, balancing creativity and coding.
-- 💻 Currently working on my major project: **Heart Disease Detection using Ensemble Techniques**.
-- 🚀 Passionate about problem-solving and building projects in **Python, Java, and Web Technologies**.
-- 🌱 Always learning and exploring the latest in **AI**, **HealthTech**, and **Full Stack Development**.
+## 🚀 Final Year AI & DS Student @ GLBITM | Passionate Problem Solver | Design Head @ GDSC GLBITM
 
 ---
 
-### 🛠️ Tech Stack:
-- **Languages**: Python, Java, JavaScript, HTML, CSS
-- **Frameworks**: Django, Flask, React
-- **Tools**: Git, GitHub, Docker, UiPath, Altair DS
-- **Databases**: MySQL, SQLite
-- **Design Tools**: Figma, Adobe Illustrator, Canva
+### 👩‍💻 About Me:
+- 🎓 Final year student specializing in **Artificial Intelligence & Data Science**.
+- 🎨 **Design Head** at Google Developer Student Club GLBITM (2023-2024) | Fusing creativity and technology.
+- 💻 Major Project: **Heart Disease Detection using Ensemble Techniques**.
+- 🔍 Exploring the crossroads of **AI**, **HealthTech**, and **Full Stack Development**.
+- 🌱 Forever learning, always building!
 
 ---
 
-### 🚀 My Projects:
-- **Heart Disease Detection using Ensemble Techniques**  
-  A machine learning project that aims to predict and classify heart diseases with high accuracy using various ensemble models.
-  
-- **Face Login System**  
-  Developed a secure face recognition login system using Python and OpenCV.
-
-- **Wellness Sathi**  
-  Health management platform for tracking wellness habits and maintaining a balanced lifestyle.
-
-Check out my repositories for more!
-
----
-
-### 📈 GitHub Stats:
-![Priyanshi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=PriyanshiAgr&show_icons=true&theme=radical)
+### 🔧 Tech Toolbox:
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 
 ---
 
-### 📫 How to reach me:
-- LinkedIn: [Priyanshi Agrawal](https://www.linkedin.com/in/priyanshi-agrawal/)
-- GitHub: [github.com/PriyanshiAgr](https://github.com/PriyanshiAgr)
+### 🚀 Featured Projects:
+- **💻 Heart Disease Detection using Ensemble Techniques**  
+  _A machine learning project to classify heart diseases with high accuracy using ensemble models._
+
+- **🔐 Face Login System**  
+  _A secure face recognition login system using Python and OpenCV._
+
+- **🌱 Wellness Sathi**  
+  _A health management platform for tracking wellness habits and maintaining a balanced lifestyle._
+
+Check out my [repositories](https://github.com/PriyanshiAgr?tab=repositories) for more cool stuff! ✨
 
 ---
 
-### 💡 Fun Fact:
-I’ve been giving Python tuition classes to foreign students for over 2 years!
+### 📊 GitHub Stats:
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=PriyanshiAgr&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="45%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PriyanshiAgr&theme=tokyonight" alt="GitHub Streak" width="45%" />
+</p>
 
+---
+
+### 🔗 Let's Connect!
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/priyanshi-agrawal/)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PriyanshiAgr)
+
+---
+
+### 🎨 Fun Fact:
+I’ve been teaching Python to foreign students for over 2 years! 💡
