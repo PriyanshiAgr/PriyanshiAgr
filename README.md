@@ -12,11 +12,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# 🌟 Hey, I’m Priyanshi! Turning ideas into reality with code and creativity 💡
 
-
-# 🌟 Priyanshi Agrawal | AI & Web Dev Enthusiast 🌟
-
-## 🚀 Final Year AI & DS Student @ GLBITM | Passionate Problem Solver | Design Head @ GDSC GLBITM
+### 🚀 Final Year AI & DS Student @ GLBITM | Passionate Problem Solver | Design Head @ GDSC GLBITM
 
 ---
 
