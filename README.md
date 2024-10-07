@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 
 
 ---
-### <img src="https://github.com/PriyanshiAgr/PriyanshiAgr/blob/main/assets/connection.gif" width="25"><b>🌐 Connect with me:</b>
+### 🌐 Connect with me:
 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&labelColor=%23362f2f)](https://www.linkedin.com/in/priyanshi-agrawal-a428aa201/)&nbsp;&nbsp;&nbsp;
