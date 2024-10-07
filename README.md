@@ -14,7 +14,7 @@ Here are some ideas to get you started:
  | Fusing creativity and technology 
 🌈
 -->
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=radhikamalpani1702&label=Profile%20views&color=0e75b6&style=flat" alt="PriyanshiAgr" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=PriyanshiAgr&label=Profile%20views&color=0e75b6&style=flat" alt="PriyanshiAgr" /> </p>
 <img src="https://github.com/PriyanshiAgr/PriyanshiAgr/blob/main/assets/Github%20Banner.png" alt="Banner Image" width="100%" height="auto">
 
 
@@ -108,9 +108,30 @@ Here are some ideas to get you started:
   _A secure face recognition login system using Python and OpenCV._
 
 - **🌱 Wellness Sathi**  
-  _A health management platform for tracking wellness habits and maintaining a balanced lifestyle._
+  _A health management platform for tracking wellness habits and maintaining a balanced lifestyle._ <br/>
 
-Check out my [repositories](https://github.com/PriyanshiAgr?tab=repositories) for more cool stuff! ✨
+[![All Repositories](https://img.shields.io/badge/View%20All%20Repos-See%20More-blueviolet?style=for-the-badge)](https://github.com/PriyanshiAgr?tab=repositories)
+
+---
+
+  ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
+
+<br />
+
+![Priyanshi's GitHub stats](https://github-readme-stats.vercel.app/api?username=PriyanshiAgr&show_icons=true&theme=radical)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PriyanshiAgr&layout=compact&theme=radical)](https://github.com/YourGitHubUsername/github-readme-stats)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=PriyanshiAgr&theme=radical&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=PriyanshiAgr&theme=monokai)](https://github.com/ryo-ma/github-profile-trophy)
+
+[![Priyanshi's contribution graph](https://github-readme-activity-graph.vercel.app/graph?username=PriyanshiAgr&theme=react-dark)](https://github.com/YourGitHubUsername)
+
+</br>
+<p align="center">
+  <b>Thank you for visiting my profile! If you appreciate my work, consider buying me a coffee or tea. 😊</b>
+</p>
 
 ---
 
