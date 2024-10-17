@@ -137,6 +137,8 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=PriyanshiAgr&theme=react-dark" alt="Contribution Graph" width="96%">
 </div>
 
+[![An image of @priyanshiagr's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/priyanshiagr)](https://holopin.io/@priyanshiagr)
+
 ### 🤝 Let's Collaborate & Create Magic Together!
 💡 Got an exciting idea or an interesting project in mind? I'm always up for a challenge! Whether it's brainstorming, coding, or designing, let's team up and bring something amazing to life. Feel free to hit me up—collaboration is where the magic happens! ✨
 
