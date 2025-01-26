@@ -1,5 +1,5 @@
 <p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=PriyanshiAgr&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /> 
+  <img src="https://komarev.com/ghpvc/?username=PriyanshiAgr&label=Profile%720views&color=0e75b6&style=flat" alt="Profile Views" /> 
 </p>
 <img src="https://github.com/PriyanshiAgr/PriyanshiAgr/blob/main/assets/Github%20Banner.png" alt="Banner Image" width="100%" height="auto">
 
